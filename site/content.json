@@ -10,6 +10,9 @@
    "",
    "Hyderabad, India · KL University · AWS Cloud Practitioner · Azure Fundamentals",
    "",
+   "",
+   "> \"You could be the master of your fate, you could be the captain of your soul, but you have to realize that life is coming from you and not at you, and that takes time\" — Timothée Chalamet",
+   "",
    "[GitHub](https://github.com/Tarunmadhav)",
    "[LinkedIn](https://www.linkedin.com/in/tarungudipati)"
   ]
@@ -19,7 +22,7 @@
    "repo": "chronopa",
    "url": "https://github.com/Tarunmadhav/Chronopa",
    "description": "Self-hosted personal productivity assistant with calendar management, task tracking, AI-powered daily briefings, and natural-language time interpretation.",
-   "tag": "AI Assistant · TypeScript",
+   "tag": "AI Assistant Â· TypeScript",
    "stars": 0,
    "language": "TypeScript",
    "pushed": "2026-07-20",
@@ -61,7 +64,7 @@
     "Android application, with a modular backend and multiple AI provider",
     "integrations.",
     "",
-    "Built with TypeScript · Node.js · Fastify · React · Kotlin · Jetpack Compose · PostgreSQL · Redis · BullMQ · Docker · Claude API · Gemini API · NVIDIA API",
+    "Built with TypeScript Â· Node.js Â· Fastify Â· React Â· Kotlin Â· Jetpack Compose Â· PostgreSQL Â· Redis Â· BullMQ Â· Docker Â· Claude API Â· Gemini API Â· NVIDIA API",
     "",
     "[Visit](https://github.com/Tarunmadhav/Chronopa)"
    ]
@@ -70,7 +73,7 @@
    "repo": "awavs",
    "url": "https://github.com/Tarunmadhav/WebSCanner",
    "description": "Modular web application security scanner combining crawling, passive checks, and active testing to analyze application security and generate structured findings.",
-   "tag": "Security Scanner · Python",
+   "tag": "Security Scanner Â· Python",
    "stars": 0,
    "language": "Python",
    "pushed": "2026-09-02",
@@ -106,7 +109,7 @@
     "to analyze application security and generate structured findings with",
     "severity-ranked reports and remediation guidance.",
     "",
-    "Built with Python · HTTPX · Requests · OWASP ZAP · OWASP Top 10 · Pytest · GitHub Actions",
+    "Built with Python Â· HTTPX Â· Requests Â· OWASP ZAP Â· OWASP Top 10 Â· Pytest Â· GitHub Actions",
     "",
     "[Visit](https://github.com/Tarunmadhav/WebSCanner)"
    ]
@@ -115,7 +118,7 @@
    "repo": "j.a.r.v.i.s",
    "url": "https://github.com/Tarunmadhav/J.A.R.V.I.S",
    "description": "Desktop voice assistant combining offline speech recognition, text-to-speech, and LLM integration for conversational interactions and desktop automation.",
-   "tag": "Voice Assistant · Python",
+   "tag": "Voice Assistant Â· Python",
    "stars": 2,
    "language": "Python",
    "pushed": "2026-03-09",
@@ -150,7 +153,7 @@
     "wake-word activation, persistent memory, modular action handlers for desktop",
     "automation and web search.",
     "",
-    "Built with Python · Vosk · Microsoft Edge TTS · OpenRouter API · PyAutoGUI · SerpApi",
+    "Built with Python Â· Vosk Â· Microsoft Edge TTS Â· OpenRouter API Â· PyAutoGUI Â· SerpApi",
     "",
     "[Visit](https://github.com/Tarunmadhav/J.A.R.V.I.S)"
    ]
@@ -159,7 +162,7 @@
    "repo": "sentinelscan",
    "url": "https://github.com/Tarunmadhav/SentinelScan",
    "description": "Network vulnerability assessment tool correlating Nmap service detection with the National Vulnerability Database to identify potential CVEs.",
-   "tag": "Vuln Scanner · Python",
+   "tag": "Vuln Scanner Â· Python",
    "stars": 0,
    "language": "Python",
    "pushed": "2026-07-15",
@@ -194,7 +197,7 @@
     "security findings with CVSS-based severity information to support",
     "vulnerability assessment.",
     "",
-    "Built with Python · Nmap · NVD API · CVE · CVSS · JSON",
+    "Built with Python Â· Nmap Â· NVD API Â· CVE Â· CVSS Â· JSON",
     "",
     "[Visit](https://github.com/Tarunmadhav/SentinelScan)"
    ]
@@ -203,7 +206,7 @@
    "repo": "cloudguard",
    "url": "https://github.com/Tarunmadhav/Cloud-Guard",
    "description": "Read-only AWS security auditing tool examining IAM policies and S3 bucket configurations for common security risks without modifying infrastructure.",
-   "tag": "Cloud Security · Python",
+   "tag": "Cloud Security Â· Python",
    "stars": 0,
    "language": "Python",
    "pushed": "2026-10-09",
@@ -237,7 +240,7 @@
     "policies and publicly accessible S3 resources, highlighting configuration",
     "weaknesses with structured security findings and JSON output.",
     "",
-    "Built with Python · AWS IAM · Amazon S3 · Boto3 · AWS APIs · JSON",
+    "Built with Python Â· AWS IAM Â· Amazon S3 Â· Boto3 Â· AWS APIs Â· JSON",
     "",
     "[Visit](https://github.com/Tarunmadhav/Cloud-Guard)"
    ]
@@ -578,14 +581,14 @@
  },
  "work": [
   {
-   "when": "2024 – present",
+   "when": "2024 â€“ present",
    "title": "Security & AI Project Builder",
    "org": "Independent",
    "where": "Hyderabad",
    "desc": "Developing hands-on projects across application security, vulnerability assessment, AI-powered development, and cloud security. Working with Python, JavaScript, React, FastAPI, AWS, Docker, Nmap, and OWASP ZAP."
   },
   {
-   "when": "2023 – present",
+   "when": "2023 â€“ present",
    "title": "Leadership & Coordination",
    "org": "KL-CIIE",
    "where": "KL University",
