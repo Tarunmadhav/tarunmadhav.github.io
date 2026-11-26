@@ -3,3 +3,8 @@
 node_modules/
 __pycache__/
 *.pyc
+.claude/
+AI_PROMPT.md
+serve.py
+portfolio.config.json
+scripts/
